@@ -8,4 +8,4 @@ python-dotenv==1.0.0
 python-slugify==8.0.1
 gunicorn==21.2.0
 python-dateutil
-sqlalchemy
+SQLAlchemy
